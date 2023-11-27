@@ -18,7 +18,8 @@ import springfox.documentation.spring.web.json.Json;
 
 @RestController
 @RequestMapping(value = "/company")
-//@CrossOrigin(origins = "http://localhost:3000")
+//@CrossOrigin(origins = "http://localhost:3000")\
+
 public class OrderController {
 	
 	
